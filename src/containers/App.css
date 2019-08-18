@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy&display=swap');
+body{
+  background-color: #21D4FD;
+  background-image: linear-gradient(119deg, #21D4FD 0%, #B721FF 100%);  
+  
+}
+::-webkit-scrollbar {
+  width: 7px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+  background: rgba(0,0,0,0);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #FFFFFF;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: grey;
+}
+h1{
+  font-family: 'Luckiest Guy', cursive;
+  color: white;
+}
