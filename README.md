@@ -1,3 +1,7 @@
+started learning react and this is my first react app with redux
+
+
+<---- react readme------>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
